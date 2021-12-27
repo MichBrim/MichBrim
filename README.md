@@ -32,35 +32,13 @@ I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction o
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 
 ##
-<!--
-<p align="center">
-  <a href="https://github.com/shadowbq?tab=followers">
-    <img src="https://img.shields.io/github/followers/shadowbq?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/shadowbq">
-    <img src="https://img.shields.io/twitter/follow/shadowbq?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-    <a href="https://linkedin.com/shadowbq">
-    <img src="https://img.shields.io/badge/linkedin-shadowbq-blue?style=for-the-badge" alt="LInkedin badge" />
-  </a>
-</p>
--->
 
 <div align=center>
 <a href="#" title="Go to Source">
-      <img height="180em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=MichBrim&show_icons=true&theme=react&border_color=00dafb&include_all_commits=true"/>
+      <img height="180em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=HunterCan&show_icons=true&theme=react&border_color=00dafb&include_all_commits=true"/>
  </a>
 <a href="#" title="Go to Source">
-      <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MichBrim&theme=react&border=00dafb&fire=DDB80F"/>
+      <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=HunterCan&theme=react&border=00dafb&fire=DDB80F"/>
  </a>
 </div>
 
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paullewis159&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-### Github Skyline
-<a href="https://skyline.github.com/paullewis159/2020" title="2020 GitHub Skyline"><img src="https://skyline.github.com/paullewis159/2020.png" alt="2020 GitHub Skyline" width="50%" /></a>
--->
